@@ -1,0 +1,6 @@
+{
+  "name": "BriquetteLab: Research Design & Flowchart",
+  "description": "Comprehensive bilingual scientific research designer, interactive laboratory flowchart, composition optimizer, and academic paper writing blueprint for low-smoke biomass briquettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
